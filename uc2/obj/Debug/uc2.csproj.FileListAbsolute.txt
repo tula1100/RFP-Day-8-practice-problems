@@ -1,0 +1,8 @@
+E:\bridgelabz\RFP-Day-4-practice-problems\uc2\bin\Debug\uc2.exe.config
+E:\bridgelabz\RFP-Day-4-practice-problems\uc2\bin\Debug\uc2.exe
+E:\bridgelabz\RFP-Day-4-practice-problems\uc2\bin\Debug\uc2.pdb
+E:\bridgelabz\RFP-Day-4-practice-problems\uc2\obj\Debug\uc2.csproj.AssemblyReference.cache
+E:\bridgelabz\RFP-Day-4-practice-problems\uc2\obj\Debug\uc2.csproj.SuggestedBindingRedirects.cache
+E:\bridgelabz\RFP-Day-4-practice-problems\uc2\obj\Debug\uc2.csproj.CoreCompileInputs.cache
+E:\bridgelabz\RFP-Day-4-practice-problems\uc2\obj\Debug\uc2.exe
+E:\bridgelabz\RFP-Day-4-practice-problems\uc2\obj\Debug\uc2.pdb
