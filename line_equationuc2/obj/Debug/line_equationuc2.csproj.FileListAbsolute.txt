@@ -1,0 +1,8 @@
+E:\bridgelabz\helloworld\line_equationuc2\bin\Debug\line_equationuc2.exe.config
+E:\bridgelabz\helloworld\line_equationuc2\bin\Debug\line_equationuc2.exe
+E:\bridgelabz\helloworld\line_equationuc2\bin\Debug\line_equationuc2.pdb
+E:\bridgelabz\helloworld\line_equationuc2\obj\Debug\line_equationuc2.csproj.AssemblyReference.cache
+E:\bridgelabz\helloworld\line_equationuc2\obj\Debug\line_equationuc2.csproj.SuggestedBindingRedirects.cache
+E:\bridgelabz\helloworld\line_equationuc2\obj\Debug\line_equationuc2.csproj.CoreCompileInputs.cache
+E:\bridgelabz\helloworld\line_equationuc2\obj\Debug\line_equationuc2.exe
+E:\bridgelabz\helloworld\line_equationuc2\obj\Debug\line_equationuc2.pdb
