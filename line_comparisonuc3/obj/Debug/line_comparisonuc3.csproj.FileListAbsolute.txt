@@ -1,8 +1,0 @@
-E:\bridgelabz\RFP-Day-3-practice-problems\line_comparisonuc3\bin\Debug\line_comparisonuc3.exe.config
-E:\bridgelabz\RFP-Day-3-practice-problems\line_comparisonuc3\bin\Debug\line_comparisonuc3.exe
-E:\bridgelabz\RFP-Day-3-practice-problems\line_comparisonuc3\bin\Debug\line_comparisonuc3.pdb
-E:\bridgelabz\RFP-Day-3-practice-problems\line_comparisonuc3\obj\Debug\line_comparisonuc3.csproj.AssemblyReference.cache
-E:\bridgelabz\RFP-Day-3-practice-problems\line_comparisonuc3\obj\Debug\line_comparisonuc3.csproj.SuggestedBindingRedirects.cache
-E:\bridgelabz\RFP-Day-3-practice-problems\line_comparisonuc3\obj\Debug\line_comparisonuc3.csproj.CoreCompileInputs.cache
-E:\bridgelabz\RFP-Day-3-practice-problems\line_comparisonuc3\obj\Debug\line_comparisonuc3.exe
-E:\bridgelabz\RFP-Day-3-practice-problems\line_comparisonuc3\obj\Debug\line_comparisonuc3.pdb
